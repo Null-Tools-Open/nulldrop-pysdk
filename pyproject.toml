@@ -1,0 +1,21 @@
+[project]
+name = "nulldrop"
+version = "1.0.0pre-1"
+description = "Python SDK for the NullDrop File Hosting API"
+readme = "README.md"
+authors = [
+    { name="Ais", email="haxmc@proton.me" }
+]
+license = { text = "MIT" }
+requires-python = ">=3.8"
+dependencies = ["requests>=2.28"]
+
+[project.urls]
+Homepage = "https://github.com/haxmcdev/nulldrop-pysdk"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/nulldrop"]
