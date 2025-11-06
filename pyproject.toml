@@ -11,7 +11,7 @@ requires-python = ">=3.8"
 dependencies = ["requests>=2.28"]
 
 [project.urls]
-Homepage = "https://github.com/haxmcdev/nulldrop-pysdk"
+Homepage = "https://github.com/Null-Tools-Open/nulldrop-pysdk"
 
 [build-system]
 requires = ["hatchling"]
