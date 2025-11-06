@@ -1,5 +1,3 @@
-Here's the complete `README.md` file for you to copy and paste:
-
 # NullDrop Client SDK
 
 A Python client SDK for interacting with [NullDrop API](https://nulldrop.xyz), a secure file storage and sharing service. This SDK allows you to easily upload, list, retrieve, and delete files in the NullDrop cloud.
