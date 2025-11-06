@@ -1,6 +1,6 @@
 [project]
 name = "nulldrop"
-version = "1.0.2"
+version = "1.0.3"
 description = "Python SDK for the NullDrop File Hosting API"
 readme = "README.md"
 authors = [
